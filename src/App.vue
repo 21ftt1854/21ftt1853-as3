@@ -3,7 +3,7 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <div>
+  <!-- <div>
     <a href="https://vitejs.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
     </a>
@@ -11,8 +11,83 @@ import HelloWorld from './components/HelloWorld.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue" />
+  <HelloWorld msg="Vite + Vue" /> -->
+  <!-- <h1 class="text-3xl font-bold underline">
+    Hello world!
+  </h1> -->
+
+
+	<!-- <div
+  class="flex flex-col rounded-lg bg-white shadow-lg dark:bg-neutral-700 md:max-w-xl md:flex-row">
+  <img
+    class="h-96 w-full rounded-t-lg object-cover md:h-auto md:w-48 md:rounded-none md:rounded-l-lg"
+    src="GraduationPic.jpg"
+    alt="" />
+  <div class="flex flex-col justify-start p-6">
+    <h2
+      class="mb-2 text-xl font-medium text-neutral-800 dark:text-neutral-50">
+      AMALUL BAHARIN
+    </h2>
+
+    <p class="text-xs text-neutral-500 dark:text-neutral-300">
+      Web Development Student
+    </p>
+
+    <p class="mb-4 text-base text-neutral-600 dark:text-neutral-200">
+      I am currently on my Level 5 Diploma in Web Development in Politeknik Brunei. I have strong interpersonal skill. I am excellent team player and effective independently. I am enthusiastic person and i enjoy working with people both young and old.
+    </p>
+    <h5
+      class="mb-2 text-xl font-medium text-neutral-800 dark:text-neutral-50">
+      SKILL & QUALITIES
+    </h5>
+    
+    <p>Able to communicate and writing both in English and Malay language.</p>
+    <p>Microsoft office software.</p>
+    <p>Online software such as canva</p>
+    <p>Able to work as a team player, interpersonal skill, problems solving and creative.</p>
+    <p>Familiarity in customer service.</p>
+    
+
+  </div>
+</div> -->
+
+<div class=" bg-gray-200 dark:bg-gray-900 flex flex-wrap items-center justify-center">
+  <div class="container max-w-lg bg-white rounded dark:bg-gray-800 shadow-lg transform duration-200 easy-in-out m-12">
+    <div class="h-2/4 sm:h-64 overflow-hidden">
+      <img class="w-full rounded-t"
+        src="https://lh3.googleusercontent.com/p/AF1QipPVtYFdkr1aXZCmiCxk5Csz4d07WIiqt9T9c9GS=s1360-w1360-h1020" />
+    </div>
+    <div class="flex justify-center px-5 -mt-12 mb-4">
+      <span clspanss="block relative h-120 w-120" >
+        <img alt=" "
+          src="GraduationPic.jpg"
+          class=" object-cover rounded-full h-40 w-40 bg-white p-1" />
+      </span>
+    </div>
+    <div class="">
+      <div class="px-7 mb-8">
+        <h2 class="text-3xl font-bold text-blue-700 dark:text-gray-300">Amalul Baharin</h2>
+        <p class="italic text-gray-400 mt-2 dark:text-gray-400">Wed Development Student</p>
+        <p class="mt-2 text-gray-600 dark:text-gray-300"> Level 5 Diploma in Web Development in Politeknik Brunei.</p>
+        <p class="mt-2 text-gray-600 dark:text-gray-300"> 21FTT1854</p>
+        <div
+          class="justify-center px-4 py-2 cursor-pointer bg-blue-700  max-w-min mx-auto mt-8 rounded-lg text-gray-300 hover:bg-black hover:text-gray-100 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-gray-200">
+          <span class="flex items-center space-x-2">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" aria-label="Email address" class="w-4 h-4">
+					<path fill="currentColor" d="M274.6,25.623a32.006,32.006,0,0,0-37.2,0L16,183.766V496H496V183.766ZM464,402.693,339.97,322.96,464,226.492ZM256,51.662,454.429,193.4,311.434,304.615,256,268.979l-55.434,35.636L57.571,193.4ZM48,226.492,172.03,322.96,48,402.693ZM464,464H48V440.735L256,307.021,464,440.735Z"></path>
+				</svg>
+        <span class="dark:text-gray-400">21FTT1854@student.pb.edu.bn</span>
+      </span>
+        </div>
+        <div class="flex flex-wrap justify-center gap-2 sm:gap-4 mt-8"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 </template>
+
 
 <style scoped>
 .logo {
