@@ -60,7 +60,7 @@ import HelloWorld from './components/HelloWorld.vue'
     <div class="flex justify-center px-5 -mt-12 mb-4">
       <span clspanss="block relative h-120 w-120" >
         <img alt=" "
-          src="GraduationPic.jpg"
+          src="https://lms.pb.edu.bn/vle/sict/pluginfile.php/140139/user/icon/klass/f1?rev=1516215"
           class=" object-cover rounded-full h-40 w-40 bg-white p-1" />
       </span>
     </div>
