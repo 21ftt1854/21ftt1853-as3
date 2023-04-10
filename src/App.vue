@@ -17,39 +17,7 @@ import HelloWorld from './components/HelloWorld.vue'
   </h1> -->
 
 
-	<!-- <div
-  class="flex flex-col rounded-lg bg-white shadow-lg dark:bg-neutral-700 md:max-w-xl md:flex-row">
-  <img
-    class="h-96 w-full rounded-t-lg object-cover md:h-auto md:w-48 md:rounded-none md:rounded-l-lg"
-    src="GraduationPic.jpg"
-    alt="" />
-  <div class="flex flex-col justify-start p-6">
-    <h2
-      class="mb-2 text-xl font-medium text-neutral-800 dark:text-neutral-50">
-      AMALUL BAHARIN
-    </h2>
-
-    <p class="text-xs text-neutral-500 dark:text-neutral-300">
-      Web Development Student
-    </p>
-
-    <p class="mb-4 text-base text-neutral-600 dark:text-neutral-200">
-      I am currently on my Level 5 Diploma in Web Development in Politeknik Brunei. I have strong interpersonal skill. I am excellent team player and effective independently. I am enthusiastic person and i enjoy working with people both young and old.
-    </p>
-    <h5
-      class="mb-2 text-xl font-medium text-neutral-800 dark:text-neutral-50">
-      SKILL & QUALITIES
-    </h5>
-    
-    <p>Able to communicate and writing both in English and Malay language.</p>
-    <p>Microsoft office software.</p>
-    <p>Online software such as canva</p>
-    <p>Able to work as a team player, interpersonal skill, problems solving and creative.</p>
-    <p>Familiarity in customer service.</p>
-    
-
-  </div>
-</div> -->
+	
 
 <div class=" bg-gray-200 dark:bg-gray-900 flex flex-wrap items-center justify-center">
   <div class="container max-w-lg bg-white rounded dark:bg-gray-800 shadow-lg transform duration-200 easy-in-out m-12">
@@ -58,11 +26,11 @@ import HelloWorld from './components/HelloWorld.vue'
         src="https://lh3.googleusercontent.com/p/AF1QipPVtYFdkr1aXZCmiCxk5Csz4d07WIiqt9T9c9GS=s1360-w1360-h1020" />
     </div>
     <div class="flex justify-center px-5 -mt-12 mb-4">
-      <span clspanss="block relative h-120 w-120" >
+      <!-- <span clspanss="block relative h-120 w-120" >
         <img alt=" "
-          src="https://lms.pb.edu.bn/vle/sict/pluginfile.php/140139/user/icon/klass/f1?rev=1516215"
+          src="src/assets/img/GraduationPic.jpg"
           class=" object-cover rounded-full h-40 w-40 bg-white p-1" />
-      </span>
+      </span> -->
     </div>
     <div class="">
       <div class="px-7 mb-8">
