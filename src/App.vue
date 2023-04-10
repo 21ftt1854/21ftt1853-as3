@@ -26,11 +26,11 @@ import HelloWorld from './components/HelloWorld.vue'
         src="https://lh3.googleusercontent.com/p/AF1QipPVtYFdkr1aXZCmiCxk5Csz4d07WIiqt9T9c9GS=s1360-w1360-h1020" />
     </div>
     <div class="flex justify-center px-5 -mt-12 mb-4">
-      <!-- <span clspanss="block relative h-120 w-120" >
+      <span clspanss="block relative h-120 w-120" >
         <img alt=" "
           src="src/assets/img/GraduationPic.jpg"
           class=" object-cover rounded-full h-40 w-40 bg-white p-1" />
-      </span> -->
+      </span>
     </div>
     <div class="">
       <div class="px-7 mb-8">
